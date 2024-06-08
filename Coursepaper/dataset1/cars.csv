@@ -1,0 +1,51 @@
+CarID,TypeID,LicenseNumber,Make,Model,Year
+1,2,176487,Barber Inc,campaign,1982
+2,4,857124,"Andrews, Wheeler and Hines",Mrs,1973
+3,5,242335,"Riley, Hernandez and Thomas",stage,1985
+4,1,557985,"Carter, Hernandez and Fox",involve,2020
+5,3,456803,Flores-Curtis,class,1993
+6,5,266660,Rogers-Williams,able,1988
+7,1,609815,Castillo-Taylor,movement,2004
+8,2,461736,Ramirez-Harrington,at,1988
+9,1,484266,Lee Inc,coach,1976
+10,5,640536,"Lane, Ross and Meyer",weight,2011
+11,5,952870,Rice and Sons,open,2011
+12,1,318637,Coleman-Bates,everyone,1998
+13,1,903344,"Clark, Bryant and Andrews",shoulder,2023
+14,4,382731,Mcneil-Holden,ball,1979
+15,2,805896,"Adams, Price and Thomas",reveal,1994
+16,5,680402,"Rodriguez, Reeves and Williams",detail,2004
+17,5,311376,Snyder-Kennedy,would,1993
+18,4,979490,Washington Ltd,professor,2019
+19,1,938289,Crane-Barrera,instead,2002
+20,4,801848,Nielsen-Taylor,coach,2006
+21,1,496982,Alexander-Hatfield,four,1973
+22,4,263174,"Rojas, Bowers and Barnes",provide,1997
+23,1,801943,Nicholson Inc,analysis,1977
+24,2,731423,"Buck, Harris and Russell",single,2018
+25,5,996509,Kelley LLC,one,1982
+26,2,892910,"Smith, Johnson and Hatfield",set,1972
+27,3,162734,Delgado-Harmon,rise,1971
+28,3,730205,"Morris, Nguyen and Valdez",size,1972
+29,2,870451,"Moody, Parker and Coleman",over,1989
+30,4,142343,Simmons PLC,face,1993
+31,4,403204,Smith-Myers,of,2016
+32,1,856140,Wolf-Lambert,of,2000
+33,2,840633,"Dorsey, Medina and Bonilla",foot,1995
+34,4,875189,Reese-Patton,technology,1985
+35,3,173236,Willis LLC,community,2022
+36,4,912495,Watkins Ltd,least,1997
+37,2,490532,Watson-Hartman,the,1998
+38,3,433068,Sanchez-Thompson,where,1994
+39,2,980722,"Walker, Williams and Bernard",us,2001
+40,1,913530,"Warren, Gonzales and French",pick,1970
+41,2,746400,Mathis PLC,serve,2014
+42,3,446261,Odom Group,yard,1985
+43,5,622841,Walker and Sons,health,1991
+44,1,179553,Phillips-Wyatt,cost,1983
+45,5,439411,Brown Inc,structure,1981
+46,4,567569,"Davis, Turner and Miller",include,1970
+47,3,430990,"Barron, Lopez and Hoffman",accept,2006
+48,1,674801,Farrell and Sons,east,2021
+49,2,587716,"Mcdaniel, Bennett and Valenzuela",director,1984
+50,4,735572,"Doyle, Rodriguez and Williams",difficult,2000
