@@ -1,2 +1,3 @@
-# db-coursepaper. 
-Grin Polina
+# Coursepaper DB, Grin Polina 
+Goal: Fully design and develop DB 
+component for an App 
